@@ -1,0 +1,83 @@
+---
+title: "Unexplored Macau I | Long Chao Kok"
+author: 'Pooja '
+date: '2020-05-25'
+slug: firstpost
+categories:
+  - Travel
+tags:
+  - Macau
+lastmod: '2020-05-25T13:45:57+05:30'
+cover: img/firstpost_cover.jpeg
+css: "static/css/font.css"
+---
+
+Rocky terrain and picturesque coastal trail with colorful rock formation along the south-China sea.
+
+<!--more-->
+
+I love to hunt out for places where crowd descend is still awaited. Macau a gambling hub, often packed with tourists have many unexplored places. Long Chao Kok is one such amazing hidden gem of Macau. 
+
+```{css, echo=FALSE}
+
+p {
+  font-size: 14.5pt;
+  font-family: "Times New Roman", Times, serif, Liberation Mono,Menlo,Courier,monospace;
+}
+
+```
+
+```
+Perfect to cheer-up mood, to get some peace and read your favorite book.
+
+Glittering-up your weekends.
+```
+
+
+Located near Hac-Sa beach on Coloane island it is a 1km long linear coastal hiking trail. It's minimum difficulty level makes it a perfect weekend day out for all age group. 
+
+The trail have two entrances one is from **Hac-Sa** side and the other one which I usually prefer is from **Chok Wan Hou Un**. Reaching to this entrance is quite easy, just get bus number **15, 21A from Taipa and 26 from Macau** and get down at stop **C676:Vila Chok Wan Hou Un-1**. Cross the road and start walking through the entrance towards left (appx half km) till you see trailing steps, which are entrance to trail. 
+
+<center>
+![C676:Vila Chok Wan Hou Un-1, bus stop](/post/2020-05-25-firstpost_files/firstpost_1.jpg){width=40% height=70%}
+
+
+![Way to the trail entrance](/post/2020-05-25-firstpost_files/firstpost_2.jpg){width=40% height=70%}
+
+</center>
+
+Once you start the trail you will visualize beautiful brownish rock formation a treat to eye. Follow the track along the sea to experience calmness of the huge ocean and peace to the soul. Many locals come here for fishing. The sight along the path reminds you of the untouched village everything seems so pure, so fresh. At the centre of the trail is traditional Chinese Pagoda like observing deck. Sitting in bed of sea, feeling the gushing sea waves and whistling winds rejuvenate the soul. Getting away from the daily routine, this place is perfect for digital detox where one can sit for hours just absorbing the vastness of this ocean. 
+
+```{r echo=FALSE, out.width="35%",out.height="50%",fig.cap=" ",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(path = c("/post/2020-05-25-firstpost_files/firstpost_3.jpg",                  "/post/2020-05-25-firstpost_files/firstpost_4.jpg",
+   "/post/2020-05-25-firstpost_files/firstpost_5.jpg",
+   "/post/2020-05-25-firstpost_files/firstpost_6.jpg"))
+```
+
+
+Just nearby the Pagoda is a unique rock formation depicting the face of **stone-age man**. 
+
+```
+Tweeting of birds, unique rocky formations and calmness of sea 
+is a perfect therapy for mind and soul!!..
+
+Perfectly instagrammable location to fill your stories!!..
+```
+
+```{r echo=FALSE, out.width="35%",out.height="50%",fig.cap=" ",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(path = c(
+   "/post/2020-05-25-firstpost_files/firstpost_7.jpg",
+     "/post/2020-05-25-firstpost_files/firstpost_8.jpg"))
+```
+
+The end of trail is equipped with wash-rooms. Beautiful uniform row houses gives homely feeling. This trails ends near Hac-Sa beach where few restaurants are available.
+
+```{r echo=FALSE, out.width="35%",out.height="50%",fig.cap=" ",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(path = c(
+ "/post/2020-05-25-firstpost_files/firstpost_9.jpg",
+     "/post/2020-05-25-firstpost_files/firstpost_10.jpg"))
+```
+
