@@ -65,7 +65,7 @@ is a perfect therapy for mind and soul!!..
 Perfectly instagrammable location to fill your stories!!..
 ```
 
-```{r echo=FALSE, out.width="35%",out.height="50%",fig.cap=" ",fig.show='hold',fig.align='center'}
+```{r echo=FALSE, out.width="35%",out.height="50%",fig.cap=" ",fig.show='hold',fig.align='center'} 
 
 knitr::include_graphics(path = c(
    "/post/2020-05-25-firstpost_files/firstpost_7.jpg",
