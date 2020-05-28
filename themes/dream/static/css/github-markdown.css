@@ -969,32 +969,19 @@
   padding-left: 128px!important;
 }
 
-.markdown-body .horizontal-scroll-wrapper {
-  width: 100px;
-  height: 300px;
-  overflow-y: auto;
-  overflow-x: hidden;
+.markdown-body .post-nav {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
 }
 
-.markdown-body .horizontal-scroll-wrapper > div {
-  width: 100px;
-  height: 100px;
+.markdown-body .nav-next {
+  margin-left: 1em;
+  text-align: right;
 }
 
-.markdown-body .horizontal-scroll-wrapper {
-
-  transform: rotate(-90deg);
-  transform-origin: right top;
+.markdown-body .nav-prev {
+  margin-right: 1em;
 }
 
-.markdown-body .horizontal-scroll-wrapper > div {
-  transform: rotate(90deg);
-  transform-origin: right top;
-}
-
-.markdown-body .horizontal-scroll-wrapper {
-
-  transform:rotate(-90deg) translateY(-100px);
-
-}
 

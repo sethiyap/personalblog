@@ -81,3 +81,8 @@ knitr::include_graphics(path = c(
      "/post/2020-05-25-firstpost_files/firstpost_10.jpg"))
 ```
 
+
+<nav class="post-nav">
+  <span class="nav-prev">&larr; <a href=""> Unexplored Macau I | Long Chao Kok </a></span>
+  <span class="nav-next"><a href="public/2020/03/29/unexplored-macau-ii-a-ma-temple/"> Unexplored Macau II | A-ma temple </a> &rarr;</span>
+</nav>
