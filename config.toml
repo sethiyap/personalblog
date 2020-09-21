@@ -1,11 +1,14 @@
-baseurl = "/"
+baseurl = "https://poojasethiya.netlify.app"
 languageCode = "en-us"
 title = "PoojaSethiya"
 theme = "dream"
 googleAnalytics = ""
-disqusShortname = "sethiyap"
+disqusShortname = "pooja_sethiya"
 ignoreFiles = ["\\.Rmarkdown$", "_files$", "_cache$"]
 enableRobotsTXT = true
+relativeURLs = true
+paginate = 7
+canonifyurls = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -27,6 +30,8 @@ enableRobotsTXT = true
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
+    twitterAuthor = "@xvrdm"
+    twitterSite = "@Sethiyapooja"
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
@@ -40,10 +45,12 @@ enableRobotsTXT = true
   avatar = "/me/avatar.jpg"
   motto = ""
 
-  email = "poojasethiya@gmail.com"
+  email = "poojasethiya24@gmail.com"
   github = "sethiyap"
   linkedin = "pooja-sethiya-9b969b23"
-
+  
+  # twitter = "//twitter.com/Sethiyapooja"
+    
   siteStartYear = 2020
 
   favicon = "/favicon.ico"
@@ -58,4 +65,5 @@ enableRobotsTXT = true
     width = 50
     height = 50
     alt = "Logo"
+  
   
