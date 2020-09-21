@@ -16,3 +16,9 @@ A-ma temple
 <!--more--> 
 
 Exploring city's hidden gem conjoins you with the local culture and tradition. 
+
+
+<nav class="post-nav">
+  <span class="nav-prev">&larr; <a href="/2020/05/25/firstpost/"> Unexplored Macau I | Long Chao Kok </a></span>
+  <span class="nav-next"><a href=""> Unexplored Macau II | A-ma temple </a> &rarr;</span>
+</nav>
