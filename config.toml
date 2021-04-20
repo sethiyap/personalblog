@@ -9,6 +9,7 @@ enableRobotsTXT = true
 relativeURLs = true
 paginate = 7
 canonifyurls = true
+toc = false
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -48,6 +49,7 @@ canonifyurls = true
   email = "poojasethiya24@gmail.com"
   github = "sethiyap"
   linkedin = "pooja-sethiya-9b969b23"
+  instagram = "https://www.instagram.com/sethiya_pooja/"
   
   # twitter = "//twitter.com/Sethiyapooja"
     

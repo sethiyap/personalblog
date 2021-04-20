@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>Desc</title>
+      <title>About Me</title>
       <link>/about/desc/</link>
       <pubDate>Sun, 29 Mar 2020 17:54:43 +0530</pubDate>
       
       <guid>/about/desc/</guid>
-      <description>Hi there, I am Pooja Sethiya.
-Welcome to my blog.</description>
+      <description>Hello, my name is Pooja Sethiya. I’m genomics data analyst with profound experience in analysis of fungal genomics data. I use R, Rmarkdown and statistical tools to analyze and visualize data. Currently, I am Ph.D. candidate at University of Macau, Macau where I have worked on RNASeq, ChIPSeq, and integrated analysis of genomics data. I always seek for novel approaches to gain biological insights.
+I have keen interest in learning advanced R and developing tools and packages in R for their handy and customizable use.</description>
     </item>
     
   </channel>
